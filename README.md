@@ -8,7 +8,7 @@ by Gleb Polevoy, Stojan Trajanovski, Paola Grosso and Cees de Laat
 
 
 
-The code contains implementations of approximation algorithms and heuristics for filtering undesirable network flows. For graphs representation, [NetworkX](https://networkx.github.io/) python library has been used.
+The code contains implementations of approximation algorithms and heuristics for filtering undesirable network flows. It also contains evaluation and scripts used for the plots. For graph representations, [NetworkX](https://networkx.github.io/) python library has been used.
 
 
 **Abstract.** 
